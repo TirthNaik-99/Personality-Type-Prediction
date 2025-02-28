@@ -84,3 +84,5 @@ This project is an AI-powered model designed for personality type prediction. It
 - **Tirth Naik** - naik.ti@northeastern.edu
 
 
+🌟 **Collab Link** - https://colab.research.google.com/drive/1vtxWvfOHHNjb1ksClJEHyP5QE1ubSC-x?authuser=1#scrollTo=7jN-jIpoP35M ⭐
+
