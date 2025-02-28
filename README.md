@@ -82,7 +82,5 @@ This project is an AI-powered model designed for personality type prediction. It
 
 ## 👥 **Authors**
 - **Tirth Naik** - naik.ti@northeastern.edu
-- **Other Contributors** - Add your name here!
 
-🌟 **Star the repository if you find it useful!** ⭐
 
